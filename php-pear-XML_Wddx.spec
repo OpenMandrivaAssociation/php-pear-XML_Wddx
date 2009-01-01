@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - Wddx pretty serializer and deserializer
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
-Release:	%mkrel 8
+Release:	%mkrel 9
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2

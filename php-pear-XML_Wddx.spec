@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.0.1
-Release:	%mkrel 11
+Version:	1.0.2
+Release:	%mkrel 1
 Summary:	Wddx pretty serializer and deserializer
 License:	PHP License
 Group:		Development/PHP

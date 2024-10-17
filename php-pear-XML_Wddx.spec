@@ -8,7 +8,7 @@ Release:	5
 Summary:	Wddx pretty serializer and deserializer
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_Wddx/
+URL:		https://pear.php.net/package/XML_Wddx/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
